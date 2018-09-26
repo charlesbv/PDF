@@ -1,4 +1,4 @@
-# Probability Distribution Function (PDF) model
+# Probability Distribution Function (PDF) 
 The Probability Distribution Function (PDF) model predicts the solar wind speed 5 days in advance.
 
 ## Prerequisites 
@@ -19,7 +19,7 @@ For example:
 ./pdf.sh 20170808021111
 ```
 will run PDF to predict the solar wind speed from August 8 to August 13, 2017.
-The 1111 charcters are options that you can change for the formats of the output.
+The 1111 characters are options that you can edit to change the format of the output.
 
 ## Authors
 * Charles D. Bussy-Virat
