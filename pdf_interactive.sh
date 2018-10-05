@@ -274,7 +274,7 @@ then ############### USE DATA FROM SWPC
 
     calculate_3_last_months
 
-    if [ $one_month_ago -lt 10 ] 
+    if [ $current_month -lt 10 ] 
     then
 	name_current_month="$current_year""0""$current_month""_ace_swepam_1h.txt"
     else
